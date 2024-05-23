@@ -1,0 +1,30 @@
+.row {
+    border: 1px solid rgb(58, 58, 58);
+    background-color: rgb(217, 224, 189);
+    box-shadow: 0px 0px 20px 10px;
+}
+
+button:hover {
+    transform: scale(1.06);
+
+}
+
+.number {
+    font-size: 39px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(219, 245, 248);
+}
+
+button {
+    position: relative;
+    left: 5%;
+}
+.row{
+    margin: 10px;
+}
